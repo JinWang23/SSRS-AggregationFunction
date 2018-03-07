@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Chapter08", "Chapter08\Chapter08.rptproj", "{003EE68C-4D3C-4557-898F-D0CD77A9B949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003EE68C-4D3C-4557-898F-D0CD77A9B949}.Debug|Default.ActiveCfg = Debug
+		{003EE68C-4D3C-4557-898F-D0CD77A9B949}.Debug|Default.Build.0 = Debug
+		{003EE68C-4D3C-4557-898F-D0CD77A9B949}.Debug|Default.Deploy.0 = Debug
+		{003EE68C-4D3C-4557-898F-D0CD77A9B949}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{003EE68C-4D3C-4557-898F-D0CD77A9B949}.DebugLocal|Default.Build.0 = DebugLocal
+		{003EE68C-4D3C-4557-898F-D0CD77A9B949}.Release|Default.ActiveCfg = Release
+		{003EE68C-4D3C-4557-898F-D0CD77A9B949}.Release|Default.Build.0 = Release
+		{003EE68C-4D3C-4557-898F-D0CD77A9B949}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
